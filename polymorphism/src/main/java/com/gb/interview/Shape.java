@@ -1,5 +1,5 @@
 package com.gb.interview;
 
 public interface Shape {
-    void draw();
+    void draw();  //draw anything
 }
